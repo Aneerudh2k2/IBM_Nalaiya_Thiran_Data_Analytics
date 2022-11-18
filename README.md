@@ -1,19 +1,10 @@
 # IBM Nalaiya Thiran
 
-## Assignment 1
+### Team ID : PNT2022TMID21205
 
-- Given dataset is <a href="https://drive.google.com/file/d/1e-YAVbSeAflTj0AS5kBufwnxITlLwrEr/view?usp=sharing">here</a>
-- Login to IBM Cognos Analytics
-- Upload source dataset to platform and perform 6 visualizations.
+#### Team members:
 
-## Assignment 2
-
-- Take a dataset from internet
-- Login into IBM Cognos Analytics
-- Upload source dataset to platform and perform various visualizations that helps us to visualize
-- Create a interactive dashboard in the same platform
-
-## Assignment 3
-
-- It is a python assignment for getting started with jupyter notebook/google colab
-- Basics, function implementations, etc.
+- Aneerudh M - 19C005
+- Arun M - 19C007
+- Mahesh Aravind - 19C053
+- Prithika S - 19C073
